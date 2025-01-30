@@ -1,2 +1,3 @@
-# Atividades e afins
- Diversos códigos doidos que eu deixo aqui :p
+# Atividade
+
+Fazer com que o código percorra o vetor e mostrar quanto tempo demorou pra isso ser feito.
